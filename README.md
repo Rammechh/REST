@@ -4,7 +4,7 @@
 
 + References
   * [REST](https://learn.crio.do/home/me/ME_REST.d)
-    <p>REST stands for REpresentational State Transfer
+    <p>REST stands for REpresentational State Transfer. Ex. An API is like a waiter in a restaurant. You don’t go into a cafe and walk straight into the kitchen to tell the chef what you wanna eat. The waiter does that for you, and that’s exactly what an API is - with the client being you, the customer and any resource that can send data, being the chef.
   * [HTTP](https://learn.crio.do/home/me/ME_HTTP.md)
   * [Jackson](https://pypi.org/project/JackSON/.md)
   * [Chrome Dev Tools](https://www.bitdegree.org/learn/chrome-developer-tools)
