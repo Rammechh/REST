@@ -9,7 +9,8 @@
     <p>Use HTTP protocol to send request & receive responses</p>
     <p>Data Format in REST is JSON (JavaScript Object Notation)</p>
     <p> We can analyse the network packets during the API calls to confirm this using Wireshark. Wireshark is a popular network analysis tool to capture network packets and display them at a granular level</p>
-   + [Understanding & using REST APIs](https://www.smashingmagazine.com/2018/01/understanding-using-rest-api/)
+   * + [Understanding & using REST APIs](https://www.smashingmagazine.com/2018/01/understanding-using-rest-api/)
+---
   * [HTTP](https://learn.crio.do/home/me/ME_HTTP.md)
   * [Jackson](https://pypi.org/project/JackSON/.md)
   * [Chrome Dev Tools](https://www.bitdegree.org/learn/chrome-developer-tools)
