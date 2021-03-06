@@ -2,7 +2,7 @@
 ---
 _Prototyping Score Alerts_
 
-+References
++ References
 * [REST] (https://learn.crio.do/home/me/ME_REST)
 * [HTTP] (https://learn.crio.do/home/me/ME_HTTP)
 * [Jackson] (https://pypi.org/project/JackSON/)
