@@ -1,4 +1,3 @@
-# First
-This is First repository
-this is first commit
-
+# Python
+---
+_Prototyping Score Alerts_
