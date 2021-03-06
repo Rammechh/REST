@@ -5,11 +5,11 @@
 + References
   * [REST](https://learn.crio.do/home/me/ME_REST.d)
     <p>REST stands for REpresentational State Transfer. Ex. An API is like a waiter in a restaurant. You don’t go into a cafe and walk straight into the kitchen to tell the chef what you wanna eat. The waiter does that for you, and that’s exactly what an API is - with the client being you, the customer and any resource that can send data, being the chef.
-    <p>Client-Server model (one software program sends a request and the other responds with some data)
-    <p>Use HTTP protocol to send request & receive responses
-    <p>Data Format in REST is JSON (JavaScript Object Notation)
-    <p> We can analyse the network packets during the API calls to confirm this using Wireshark. Wireshark is a popular network analysis tool to capture network packets and display them at a granular level
-     + [Understanding & using REST APIs](https://www.smashingmagazine.com/2018/01/understanding-using-rest-api/)
+    <p>Client-Server model (one software program sends a request and the other responds with some data)</p>
+    <p>Use HTTP protocol to send request & receive responses</p>
+    <p>Data Format in REST is JSON (JavaScript Object Notation)</p>
+    <p> We can analyse the network packets during the API calls to confirm this using Wireshark. Wireshark is a popular network analysis tool to capture network packets and display them at a granular level</p>
+   + [Understanding & using REST APIs](https://www.smashingmagazine.com/2018/01/understanding-using-rest-api/)
   * [HTTP](https://learn.crio.do/home/me/ME_HTTP.md)
   * [Jackson](https://pypi.org/project/JackSON/.md)
   * [Chrome Dev Tools](https://www.bitdegree.org/learn/chrome-developer-tools)
