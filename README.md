@@ -4,7 +4,7 @@
 
 + References
   * [REST](https://learn.crio.do/home/me/ME_REST.d)
-    REST stands for REpresentational State Transfer
+    <p>REST stands for REpresentational State Transfer
   * [HTTP](https://learn.crio.do/home/me/ME_HTTP.md)
   * [Jackson](https://pypi.org/project/JackSON/.md)
   * [Chrome Dev Tools](https://www.bitdegree.org/learn/chrome-developer-tools)
