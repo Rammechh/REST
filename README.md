@@ -10,7 +10,7 @@
     <p>Data Format in REST is JSON (JavaScript Object Notation)</p>
     <p> We can analyse the network packets during the API calls to confirm this using Wireshark. Wireshark is a popular network analysis tool to capture network packets and display them at a granular level</p>
    * + [Understanding & using REST APIs](https://www.smashingmagazine.com/2018/01/understanding-using-rest-api/)
-    * The Anatomy Of A Request _1.The endpoint 2.The method 3.The headers 4.The data (or body)_
+         * The Anatomy Of A Request _1.The endpoint 2.The method 3.The headers 4.The data (or body)_
 ---
   * [HTTP](https://learn.crio.do/home/me/ME_HTTP.md)
   * [Jackson](https://pypi.org/project/JackSON/.md)
