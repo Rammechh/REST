@@ -10,3 +10,8 @@
  
 + Fetching Live score and Parsing Data
   * [Read, Write and Parse JSON using Python](https://www.geeksforgeeks.org/read-write-and-parse-json-using-python/)
+
++ Notifying the users
+  * [Send message to Telegram user using Python](https://www.geeksforgeeks.org/send-message-to-telegram-user-using-python/)
+  * [telegram-send · PyPI Documentation](https://pypi.org/project/telegram-send/)
+  
