@@ -12,7 +12,7 @@
    * + [Understanding & using REST APIs](https://www.smashingmagazine.com/2018/01/understanding-using-rest-api/)
          * The Anatomy Of A Request _1.The endpoint 2.The method 3.The headers 4.The data (or body)_
             * 1. Testing Endpoints With Curl in cmd * curl https://api.github.com/users/zellwk/repos
-            * 2. The Method --> GET POST PUT PATCH DELETE
+            * 2. The Method --> 1. GET(READ) 2. POST(CREATE) 3. PUT(UPDATE) 4. PATCH(UPDATE) 5. DELETE(DELETE)
             * 3. 
 ---
   * [HTTP](https://learn.crio.do/home/me/ME_HTTP.md)
