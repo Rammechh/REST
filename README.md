@@ -18,6 +18,8 @@
 ---
   * [HTTP](https://learn.crio.do/home/me/ME_HTTP.md)
   * [Jackson](https://pypi.org/project/JackSON/.md)
+    * pip install --user jackson
+      * JAckson file uploaded
   * [Chrome Dev Tools](https://www.bitdegree.org/learn/chrome-developer-tools)
  
 + Fetching Live score and Parsing Data
