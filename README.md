@@ -13,7 +13,8 @@
          * The Anatomy Of A Request _1.The endpoint 2.The method 3.The headers 4.The data (or body)_
             * 1. Testing Endpoints With Curl in cmd * curl https://api.github.com/users/zellwk/repos
             * 2. The Method --> 1. GET(READ) 2. POST(CREATE) 3. PUT(UPDATE) 4. PATCH(UPDATE) 5. DELETE(DELETE)
-            * 3. 
+            * 3. You can send HTTP headers with curl through the -H or --header option. To send header to Github’s API in cmd--> curl -H "Content-Type: application/json" https://api.github.com
+            * 4. To send data through cURL, you can use the -d or --data option: curl -X POST <URL> -d property1=value1
 ---
   * [HTTP](https://learn.crio.do/home/me/ME_HTTP.md)
   * [Jackson](https://pypi.org/project/JackSON/.md)
